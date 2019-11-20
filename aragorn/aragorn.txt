@@ -1,0 +1,696 @@
+[
+	{
+		"area":[
+			"UBI",
+			"Finance",
+			"Travel",
+			"Insurance",
+			"Auto Aftermarket"
+		],
+		"batch":"1",
+		"fundingTime":"2016.07.14",
+		"fundingRound":"A",
+		"establishDate":2014,
+		"investors":"JD; IDG",
+		"fundingRmb":"87mil",
+		"followup":"JV discussion failed; #no more follow up",
+		"bu":"MBAFC/Insurance",
+		"saProject":"insurance data management app",
+		"valuation":"600mil ",
+		"startup":"OK insurance",
+		"location":"Shanghai",
+		"id":1
+	},
+	{
+		"area":[
+			"Intelligent Storage",
+			"Robot",
+			"logistics"
+		],
+		"batch":"1",
+		"fundingTime":"2016.06.13",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"LanTing Capital; Empower Investment; Albatross Venture",
+		"fundingRmb":"10mil",
+		"followup":"Signed 13 million rmb contract with DPTS for Hangzhou PDC in Jun, 2019 and it has already implemented",
+		"bu":"DPTS DSP/PDP & ITS/CS AS",
+		"saProject":"DPTS warehouse picking robot “bixi”",
+		"valuation":" 300mil",
+		"startup":"WaterRock",
+		"location":"Beijing",
+		"id":2
+	},
+	{
+		"area":[
+			"Big data",
+			"Saas",
+			"Auto"
+		],
+		"batch":"1",
+		"fundingTime":"2016.01.15",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"BSJ",
+		"fundingRmb":"13.5mil",
+		"followup":"No follow-up",
+		"bu":"BMBS Customer",
+		"saProject":"1. Customer tagging matrix#2. Development",
+		"valuation":"200mil ",
+		"startup":"UnicData",
+		"location":"Shanghai",
+		"id":3
+	},
+	{
+		"area":[
+			"Auto Aftermarket",
+			"Car maintenance"
+		],
+		"batch":"1",
+		"fundingTime":"2016",
+		"fundingRound":"A+",
+		"establishDate":2013,
+		"investors":"BITAUT; Gobi Fund",
+		"fundingRmb":"42mil",
+		"followup":"No follow-up",
+		"bu":"BMBS Customer",
+		"saProject":"Q&A platform for Mercedes me club",
+		"valuation":" 500mil",
+		"startup":"QCDS",
+		"location":"Beijing",
+		"id":4
+	},
+	{
+		"area":[
+			"AI",
+			"DL",
+			"Face Recognition"
+		],
+		"batch":"1",
+		"fundingTime":"2018.09.10",
+		"fundingRound":"D",
+		"establishDate":2014,
+		"investors":"SBCVC",
+		"fundingRmb":"7bil",
+		"followup":"Signed a contract with AFC, 600K rmb, Aug, 2018",
+		"bu":"PM China Insight & Concept",
+		"saProject":"Rear seat entertainment with gesture recognition and eye movement track",
+		"valuation":"42bil",
+		"startup":"SenseTime",
+		"location":"Beijing",
+		"id":5
+	},
+	{
+		"area":[
+			"IM",
+			"New energy",
+			"Charging Service"
+		],
+		"batch":"1",
+		"fundingTime":"2019.01.25",
+		"fundingRound":"A+",
+		"establishDate":2015,
+		"investors":"BP Ventures(11.5%)#Detong Capital#Alliance Ventures(5.3%)",
+		"fundingRmb":"32mil",
+		"followup":"No follow-up#EMSP bidding failed in 2018;#BP and alliances became its strategic partners",
+		"bu":"RD China EV",
+		"saProject":"Charging robot for EV",
+		"valuation":"150mil ",
+		"startup":"Powershare",
+		"location":"Shanghai",
+		"id":6
+	},
+	{
+		"area":[
+			"AI",
+			"NLP",
+			"Semantic Recognition"
+		],
+		"batch":"1",
+		"fundingTime":"2018.08.22",
+		"fundingRound":"B",
+		"establishDate":2016,
+		"investors":"Hon Hai Precision Industry",
+		"fundingRmb":"70mil",
+		"followup":"Join Startup Autobahn #3, with Jardine – ZF (Intelligent Digital Sales)",
+		"bu":"RD China Telematics & Informatics",
+		"saProject":"Natural language understanding and integration to Mercedes me app",
+		"valuation":" 1.3bil",
+		"startup":"iMoran",
+		"location":"Beijing",
+		"id":7
+	},
+	{
+		"area":[
+			"Digital map",
+			"Autopilot"
+		],
+		"batch":"1",
+		"fundingTime":"2017.12.21",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"SBCVC",
+		"fundingRmb":"25mil",
+		"followup":"No follow-up",
+		"bu":"RD C/AS; #RD C/KP",
+		"saProject":"1.Mapping infrastructure research based on street view#2.B-face",
+		"valuation":"600mil ",
+		"startup":"GEO",
+		"location":"Shanghai",
+		"id":8
+	},
+	{
+		"area":[
+			"AR",
+			"VR"
+		],
+		"batch":"1",
+		"fundingTime":"2017.11.06",
+		"fundingRound":"A",
+		"establishDate":2015,
+		"investors":"Jucai Capital",
+		"fundingRmb":"20mil",
+		"followup":"No follow-up",
+		"bu":"RD China Telematics & Informatics",
+		"saProject":"Future rear seat entertainment",
+		"valuation":" 300mil",
+		"startup":"Geefish",
+		"location":"Beijing",
+		"id":9
+	},
+	{
+		"area":[
+			"AI",
+			"Tactile sensation",
+			"Intelligent chip"
+		],
+		"batch":"2",
+		"fundingTime":"2018",
+		"fundingRound":"Seed",
+		"establishDate":2017,
+		"investors":"SBCVC; Moom Group",
+		"fundingRmb":" 6mil",
+		"followup":"No follow up",
+		"bu":"RD C/AD",
+		"saProject":"1.Ubiquitous Proximity Sensing#2. Smart soft-trim for Seat  ",
+		"valuation":"60mil",
+		"startup":"Tashan",
+		"location":"Beijing",
+		"id":1
+	},
+	{
+		"area":[
+			"Digital map",
+			"Autopilot"
+		],
+		"batch":"1&2",
+		"fundingTime":"2017.12.21",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"SBCVC",
+		"fundingRmb":"25mil",
+		"followup":"No follow up",
+		"bu":"RD C/AS; RD C/KP",
+		"saProject":"1. MAPPING INFRASTRUCTURE RESEARCH BASED ON STREET VIEW#2. B-Face",
+		"valuation":"600mil ",
+		"startup":"GEO",
+		"location":"Shanghai",
+		"id":2
+	},
+	{
+		"area":[
+			"AR",
+			"VR",
+			"AI",
+			"Auto",
+			"Autopilot"
+		],
+		"batch":"2",
+		"fundingTime":"2017.12.05",
+		"fundingRound":"B",
+		"establishDate":2015,
+		"investors":"MOMΛ; SenseTime; Star VC",
+		"fundingRmb":"210mil",
+		"followup":"Join Startup Autobahn #3, collaborate with Jardine (ADAS Demonstration via Driving Simulator)",
+		"bu":"RD/AS",
+		"saProject":"VR Driving Experience",
+		"valuation":" 500mil",
+		"startup":"51VR",
+		"location":"Beijing",
+		"id":3
+	},
+	{
+		"area":[
+			"AI",
+			"NLP",
+			"Voice Interaction",
+			"Education",
+			"Robot"
+		],
+		"batch":"2",
+		"fundingTime":"2017.09.07",
+		"fundingRound":"B",
+		"establishDate":2014,
+		"investors":"Seven Seas Partners",
+		"fundingRmb":"350mil",
+		"followup":"No Follow-up",
+		"bu":"RD C/TI",
+		"saProject":"Virtual Assistant",
+		"valuation":" 3bil",
+		"startup":"Roobo",
+		"location":"Beijing ",
+		"id":4
+	},
+	{
+		"area":[
+			"Big Data",
+			"Saas",
+			"Digital Markeing",
+			"Marketing Forecast",
+			"Marketing Automation"
+		],
+		"batch":"2",
+		"fundingTime":"2018",
+		"fundingRound":"A",
+		"establishDate":2016,
+		"investors":"Yonyou Network Co Ltd; Happiness Capital",
+		"fundingRmb":"30mil",
+		"followup":"No Follow-up",
+		"bu":"BMBS/CE",
+		"saProject":"AI for customer repurchase",
+		"valuation":"300mil ",
+		"startup":"DATATIST",
+		"location":"Shanghai",
+		"id":5
+	},
+	{
+		"area":[
+			"Big data",
+			"Saas",
+			"New retail"
+		],
+		"batch":"2",
+		"fundingTime":"2018",
+		"fundingRound":"A",
+		"establishDate":2015,
+		"investors":"Personal Angel",
+		"fundingRmb":"30mil",
+		"followup":"Pilot for BMBS MAR2020",
+		"bu":"BMBS/NP",
+		"saProject":"Digital Customer Journey Reinforced Rollout",
+		"valuation":"100mil ",
+		"startup":"Laizhun",
+		"location":"Zhejiang",
+		"id":6
+	},
+	{
+		"area":[
+			"Blockchain",
+			"Finance",
+			"Saas"
+		],
+		"batch":"2",
+		"fundingTime":"2016",
+		"fundingRound":"A",
+		"establishDate":2014,
+		"investors":"Wangxiang Group; Fenbushi Capital",
+		"fundingRmb":"24mil",
+		"followup":"Join Startup Autobahn #3 with BMBS - Used Car (Blockchain Platform of Vehicle Residual Value Management)",
+		"bu":"BMBS/CE;#BMBS/SU",
+		"saProject":"Blockchain application in points system",
+		"valuation":"300mil ",
+		"startup":"Juzix",
+		"location":"Shanghai",
+		"id":7
+	},
+	{
+		"area":[
+			"Saas",
+			"AI",
+			"Big data",
+			"ML"
+		],
+		"batch":"2",
+		"fundingTime":"2017",
+		"fundingRound":"A",
+		"establishDate":2016,
+		"investors":"Good Capital; The Jiangmen; LCIG",
+		"fundingRmb":"40mil",
+		"followup":"No follow-up",
+		"bu":"DSP/PDP",
+		"saProject":"AI Model for Network Strategic",
+		"valuation":" 300mil",
+		"startup":"Cardinal",
+		"location":"Beijing",
+		"id":8
+	},
+	{
+		"area":[
+			"AI",
+			"NLP",
+			"Chat Robot"
+		],
+		"batch":"2",
+		"fundingTime":"2018.02.13",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"Yunqi Partners; MSA",
+		"fundingRmb":"No",
+		"followup":"No follow-up",
+		"bu":"BMBS/CE",
+		"saProject":"Open Domain Chat Bot",
+		"valuation":" 300mil",
+		"startup":"Ruyi.AI",
+		"location":"Shanghai",
+		"id":9
+	},
+	{
+		"area":[
+			"Saas",
+			"logistics"
+		],
+		"batch":"2",
+		"fundingTime":" 2018.12.27",
+		"fundingRound":"C1",
+		"establishDate":2014,
+		"investors":"China Merchants Capital",
+		"fundingRmb":"No",
+		"followup":"No follow-up",
+		"bu":"DPTS/SCM",
+		"saProject":"Track and trace for outbound transportation",
+		"valuation":" 800mil",
+		"startup":"oTMS",
+		"location":"Shanghai",
+		"id":10
+	},
+	{
+		"area":[
+			"AR",
+			"VR"
+		],
+		"batch":"2",
+		"fundingTime":"2017.05.01",
+		"fundingRound":"A",
+		"establishDate":2003,
+		"investors":"State Development & Investment Corporation",
+		"fundingRmb":"200mil",
+		"followup":"No follow-up",
+		"bu":"BBAC/IT",
+		"saProject":"Smart Maintenance Practice",
+		"valuation":"2bil",
+		"startup":"RealMax",
+		"location":"Shanghai",
+		"id":11
+	},
+	{
+		"area":[
+			"AI",
+			"Visual Recognition"
+		],
+		"batch":"2",
+		"fundingTime":" 2017.08",
+		"fundingRound":"Angel",
+		"establishDate":2017,
+		"investors":"Shenzhen Chengxinghe Investment",
+		"fundingRmb":"10mil ",
+		"followup":"No follow-up",
+		"bu":"ITS/CS",
+		"saProject":"Image Cognitive for Outer Parts Damage",
+		"valuation":"100mil ",
+		"startup":"Deepfinch",
+		"location":"Beijing",
+		"id":12
+	},
+	{
+		"area":[
+			"MR+content"
+		],
+		"batch":"2",
+		"fundingTime":"2016",
+		"fundingRound":"Angel",
+		"establishDate":2016,
+		"investors":"Personal Angel",
+		"fundingRmb":"10mil",
+		"followup":" HR project",
+		"bu":"DGRC HRD/G",
+		"saProject":"BeeMe",
+		"valuation":"100mil ",
+		"startup":"VX Entertainment",
+		"location":"Beijing",
+		"id":13
+	},
+	{
+		"area":[
+			"Auto Aftermarket",
+			"Tyre"
+		],
+		"batch":"2",
+		"fundingTime":"2018.09 ",
+		"fundingRound":"Angel",
+		"establishDate":2013,
+		"investors":"YeePay; PNP ",
+		"fundingRmb":"3.5mil ",
+		"followup":"Pilot for BMBS MAR2020;#currently starting a new financing round (not closed and announced yet)",
+		"bu":"BMBS/NP",
+		"saProject":"Automatic Tyre Tread Depth Inspection",
+		"valuation":"120mil ",
+		"startup":"Tyrehub",
+		"location":"Shanghai",
+		"id":14
+	},
+	{
+		"area":[
+			"AI",
+			"Visual Recognition"
+		],
+		"batch":"2",
+		"fundingTime":" 2015.12",
+		"fundingRound":"seed",
+		"establishDate":2015,
+		"investors":"Personal Angel",
+		"fundingRmb":"10mil",
+		"followup":"Join Startup Autobahn #3 with RD C/KC (Smart Triangles)",
+		"bu":"RD C/OV",
+		"saProject":"Separate Sound Zone",
+		"valuation":" 100mil",
+		"startup":"Tamo",
+		"location":"Beijing",
+		"id":15
+	},
+	{
+		"area":[
+			"IM",
+			"Sensor"
+		],
+		"batch":"3",
+		"fundingTime":"N/A",
+		"fundingRound":"N/A",
+		"establishDate":2013,
+		"investors":"N/A",
+		"fundingRmb":"N/A",
+		"followup":"joined in CES Asia in June",
+		"bu":"RD C/TC",
+		"saProject":"Four Wheel Alignment Monitoring System",
+		"valuation":"N/A",
+		"startup":"Bewis sensing",
+		"location":"Jiangsu",
+		"id":1
+	},
+	{
+		"area":[
+			"AI",
+			"Visual Recognition"
+		],
+		"batch":"2&3",
+		"fundingTime":"2015",
+		"fundingRound":"Seed",
+		"establishDate":2015,
+		"investors":"Personal Angel",
+		"fundingRmb":"10mil",
+		"followup":"",
+		"bu":"RD C/KC",
+		"saProject":"Smart Triangles",
+		"valuation":"100mil",
+		"startup":"Tamo",
+		"location":"Beijing",
+		"id":2
+	},
+	{
+		"area":[
+			"AI",
+			"IM",
+			"Industrial automation"
+		],
+		"batch":"3",
+		"fundingTime":"N/A",
+		"fundingRound":"N/A",
+		"establishDate":2017,
+		"investors":"N/A",
+		"fundingRmb":"N/A",
+		"followup":"",
+		"bu":"RD C/OV",
+		"saProject":"Driver-Adaptive Seat Adjustment System",
+		"valuation":"N/A",
+		"startup":"Glisun",
+		"location":"Hubei",
+		"id":3
+	},
+	{
+		"area":[
+			"AR",
+			"VR"
+		],
+		"batch":"3",
+		"fundingTime":"2016.11.23",
+		"fundingRound":"A",
+		"establishDate":2013,
+		"investors":"IResearch;OFC;Ofilm;Boyaa",
+		"fundingRmb":"140mil",
+		"followup":"",
+		"bu":"BBAC MRAII AS & IT S/CX",
+		"saProject":"Electronic Stamp @AS based on Gesture and Face Recognition",
+		"valuation":"680mil",
+		"startup":"uSens",
+		"location":"Beijing",
+		"id":4
+	},
+	{
+		"area":[
+			"Big data",
+			"Auto"
+		],
+		"batch":"3",
+		"fundingTime":"2017",
+		"fundingRound":"Pre-A",
+		"establishDate":2015,
+		"investors":"Haidain Pioneer Park",
+		"fundingRmb":"unknown",
+		"followup":"",
+		"bu":"BFDA – TC/BQE;#BFDA - R&D/AE",
+		"saProject":"1. Engine Problem Prediction and Alarm Systems;#2. Big data analysis and modeling of Heavy-duty Truck",
+		"valuation":"N/A",
+		"startup":"Hongdajiutong",
+		"location":"Beijing",
+		"id":5
+	},
+	{
+		"area":[
+			"AI",
+			"NLP"
+		],
+		"batch":"3",
+		"fundingTime":"2018.11.27",
+		"fundingRound":"A",
+		"establishDate":2017,
+		"investors":"Sequoia Capital China;K2VC;#C Ventures;Macalline;LCIG",
+		"fundingRmb":"420mil",
+		"followup":"",
+		"bu":"BMBS – MAR2020;#Jardine Group",
+		"saProject":"1. High Net Worth Customer Filter;#2. Retail Customer Engagement",
+		"valuation":"4200mil",
+		"startup":"Aibee",
+		"location":"Beijing",
+		"id":6
+	},
+	{
+		"area":[
+			"AR",
+			"VR"
+		],
+		"batch":"3",
+		"fundingTime":"N/A",
+		"fundingRound":"N/A",
+		"establishDate":2013,
+		"investors":"N/A",
+		"fundingRmb":"N/A",
+		"followup":"",
+		"bu":"PM C/IC",
+		"saProject":"In-car AR game",
+		"valuation":"N/A",
+		"startup":"Humming bird",
+		"location":"Beijing",
+		"id":7
+	},
+	{
+		"area":[
+			"Blockchain",
+			"Finance"
+		],
+		"batch":"2&3",
+		"fundingTime":"2016",
+		"fundingRound":"A",
+		"establishDate":2014,
+		"investors":"Fenbushi Capital",
+		"fundingRmb":"N/A",
+		"followup":"",
+		"bu":"BMBS - Used Car",
+		"saProject":"Blockchain Platform of Vehicle Residual Value Management",
+		"valuation":"N/A",
+		"startup":"Juzix",
+		"location":"Shanghai",
+		"id":8
+	},
+	{
+		"area":[
+			"AR",
+			"VR",
+			"AI",
+			"Auto",
+			"Autopilot"
+		],
+		"batch":"2&3",
+		"fundingTime":"2017.12.05",
+		"fundingRound":"B",
+		"establishDate":2015,
+		"investors":"MOMΛ;SenseTime;Star VC",
+		"fundingRmb":"210mil",
+		"followup":"",
+		"bu":"Jardine Group",
+		"saProject":"ADAS Demonstration via Driving Simulator",
+		"valuation":"2100mil",
+		"startup":"51VR",
+		"location":"Beijing",
+		"id":9
+	},
+	{
+		"area":[
+			"AI",
+			"NLP",
+			"Semantic Recognition"
+		],
+		"batch":"1&3",
+		"fundingTime":"2018.08.22",
+		"fundingRound":"B",
+		"establishDate":2016,
+		"investors":" Hon Hai Precision Ind",
+		"fundingRmb":"70mil",
+		"followup":"",
+		"bu":"Jardine Group",
+		"saProject":"Intelligent Digital Sales",
+		"valuation":"583mil",
+		"startup":"Mor.AI",
+		"location":"Beijing",
+		"id":10
+	},
+	{
+		"area":[
+			"Big data",
+			"Auto ",
+			" AI ",
+			" customer analysis"
+		],
+		"batch":"3",
+		"fundingTime":"",
+		"fundingRound":"",
+		"establishDate":2018,
+		"investors":"",
+		"fundingRmb":"",
+		"followup":"going to start Pre-A round financing in August, 2019, with 7-10mil RMB",
+		"bu":"",
+		"saProject":"",
+		"valuation":"",
+		"startup":"Transbit",
+		"location":"Shanghai",
+		"id":11
+	}
+]
